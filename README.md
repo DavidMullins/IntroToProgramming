@@ -1,1 +1,1 @@
-# This repository will contain the soultions to te excercises found in Introduction To Programming found on LaunchSchool.com
+# This repository will contain the soultions to the excercises found in Introduction To Programming found on LaunchSchool.com
